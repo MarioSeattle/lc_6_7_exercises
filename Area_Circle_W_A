@@ -1,0 +1,7 @@
+
+def areaOfCircle(r):
+    
+    return(math.pi*(r**2))
+     
+      
+print(areaOfCircle(100))
